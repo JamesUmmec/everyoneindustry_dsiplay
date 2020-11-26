@@ -1,0 +1,14 @@
+<svg width="250" height="350" xmlns="http://www.w3.org/2000/svg">
+    <g>
+        <title>icon</title>
+        <rect transform="rotate(-33.6359, 137.32, 234.263)" id="svg_1" height="104.46766" width="120.252697" y="182.029198" x="77.194718" stroke-width="0" stroke="#000" fill="#2273b8"/>
+        <path id="svg_2" d="m111,63.550003" opacity="0.5" stroke-width="1.5" stroke="#000" fill="#fff"/>
+        <path id="svg_3" d="m129,95.550003" opacity="0.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#fff"/>
+        <ellipse ry="53.166688" rx="53.166688" id="svg_6" cy="269.669851" cx="83.218125" stroke-width="0" stroke="#000" fill="#2273b8"/>
+        <ellipse ry="53.166688" rx="53.166688" id="svg_11" cy="205.669713" cx="183.218334" stroke-width="0" stroke="#000" fill="#6fad7c"/>
+        <rect transform="rotate(-155.166, 131.988, 182.263)" id="svg_12" height="104.46766" width="120.252697" y="130.02908" x="71.861366" stroke-width="0" stroke="#000" fill="#6fad7c"/>
+        <ellipse ry="53.166688" rx="53.166688" id="svg_13" cy="153.002931" cx="64.551406" stroke-width="0" stroke="#000" fill="#dd895c"/>
+        <rect transform="rotate(147.498, 114.655, 120.929)" id="svg_14" height="104.46766" width="120.252697" y="68.695612" x="54.527995" stroke-width="0" stroke="#000" fill="#dd895c"/>
+        <ellipse ry="53.166688" rx="53.166688" id="svg_15" cy="85.66945" cx="169.884963" stroke-width="0" stroke="#000" fill="#dd895c"/>
+    </g>
+</svg>
